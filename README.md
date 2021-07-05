@@ -57,7 +57,7 @@ self.preferredContentSize = CGSizeMake([UIScreen mainScreen].bounds.size.width, 
  
 #### 文件大小限制
 <div align = "center">
-<img src = "./Image/extension_type.png" width = "408" height = "162" alt = "" align =center /> </div>
+<img src = "./Image/extension_type.png" width = "610" height = "243" alt = "" align =center /> </div>
 <br>
 
 - 一定要有 `"mutable-content": "1"`,以及一定要有 `Alert` 的字段，否则可能会拦截通知失败。
