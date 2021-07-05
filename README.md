@@ -74,3 +74,6 @@ self.preferredContentSize = CGSizeMake([UIScreen mainScreen].bounds.size.width, 
     }
 }
 ```
+
+--
+BY QIUFAIRY
